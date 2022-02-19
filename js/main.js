@@ -6,12 +6,12 @@ var fitnessApiKey = "2a61fe40cdmshb25b8249e993d82p1d55cejsn5658af22a824";
 // var edAppKey = "d238cce08ac349a419e8f92b7bc5bc99";
 
 // Grant API key
-// var edAppId = "c579d9d3";
-// var edAppKey = "eddd63f4bfe096f4a9662f17302fd0fe";
+var edAppId = "c579d9d3";
+var edAppKey = "eddd63f4bfe096f4a9662f17302fd0fe";
 
 // Laura API key
-var edAppId = "67e33c99";
-var edAppKey = "58ed3e82ebe79a928c46d37385426a4b";
+// var edAppId = "67e33c99";
+// var edAppKey = "58ed3e82ebe79a928c46d37385426a4b";
 
 // submit button event listner
 $("#user-form").on("submit", generateUserSummary);
