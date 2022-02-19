@@ -108,10 +108,6 @@ WHEN I refresh the page, my user details should be saved and the recipes I saved
 
 
 ## Deployed link:
-https://bavkudhail.github.io/meal-planner-project-1/
-
-
-## Repository Link:
-https://github.com/BavKudhail/meal-planner-project-1
+https://grantrt.github.io/Macro-Meals/
 
 
